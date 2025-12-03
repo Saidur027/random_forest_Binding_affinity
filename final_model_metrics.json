@@ -1,0 +1,11 @@
+{
+    "R2": 0.855703868373343,
+    "RMSE": 0.29938392525790847,
+    "MAE": 0.22595832441852276,
+    "best_seed": 4,
+    "best_params": {
+        "regressor__max_depth": 10,
+        "regressor__max_features": 0.5,
+        "regressor__n_estimators": 300
+    }
+}
